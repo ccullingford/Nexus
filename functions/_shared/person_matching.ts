@@ -1,6 +1,7 @@
 /**
  * Shared Person Matching Utility for AppFolio Import
- * Last updated: 2026-01-04
+ * Version: 1.0.0
+ * Last updated: 2026-01-05
  * 
  * CRITICAL MATCHING RULES:
  * 1. Email ALWAYS wins over phone if both match

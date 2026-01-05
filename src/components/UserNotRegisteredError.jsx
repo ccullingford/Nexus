@@ -1,3 +1,8 @@
+/**
+ * UserNotRegisteredError Component
+ * Version: 1.0.0
+ * Last updated: 2026-01-05
+ */
 import React from 'react';
 
 const UserNotRegisteredError = () => {
